@@ -1,0 +1,13 @@
+---
+layout: post
+title: my first post
+date: 2020-12-9 
+category: sample
+---
+# post-sample
+> Hello!
+
+This is code
+```python3
+print('qwe')
+```
