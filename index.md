@@ -1,4 +1,4 @@
 ---
-layout: 
+layout: page
 permalink: /profile/
 ---
