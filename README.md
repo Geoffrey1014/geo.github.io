@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p align='left'>
-<img src="/public/img/mypicture.JPG" width=100 >
-<p align='right'>
-## Weigang He
-
+## Weigang He 
 > He is a Research Assistant (Mentor: [Ting Su](https://tingsu.github.io/)) of East China Normal University (2022-). He got his M.S. in software engineering from East China Normal University ([ECNU](https://english.ecnu.edu.cn/)), Shanghai, China (2018-2021).
 His research interests are:
 - Mobile App Analysis and Testing (GUI Fuzzing) 
