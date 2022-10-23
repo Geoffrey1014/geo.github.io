@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Profile
 permalink: /profile/
 ---
 
@@ -11,7 +10,7 @@ His research interests are in:
 - Mobile App Analysis and Testing (GUI Fuzzing) 
 - Fuzzing Compilers/Program Analyzers
 
-### Research Program
+### Research Programs
 #### Testing Static Analysis Tools. (Mar.2022 – Now)
 Aims to design an effective fuzzing test scheme to automatically find false negatives, false positives and tool crash defects of the static analysis tools within Ant group and Alibaba.
 #### [Aiding Diagnosing Automated GUI Testing Tools for Android.](https://github.com/the-themis-benchmarks/home/tree/industrial_tools_evaluation) (Jul.2021 – Aug.2022)
