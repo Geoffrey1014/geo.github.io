@@ -5,36 +5,6 @@ permalink: /profile/
 ---
 
 ## Weigang He 
-    <tr>
-                        <td class="centered">
-                            <img src="https://tingsu.github.io/files/pic2_small.jpg" width="170" height="180"></td>
-                        <td>
-                            <table style="width: 100%" cellpadding="2">
-                            		
-                            	 <tr>
-                                    <td><h2>TING SU</h2></td>
-                                </tr>
-                                <tr>
-                                    <td>Professor, Ph.D. (<a href="https://faculty.ecnu.edu.cn/_s43/st2/main.psp">中文主页</a>)</td>
-                                </tr>
-                                <tr>
-                                    <td><a href="http://www.sei.ecnu.edu.cn/">Software Engineering Institute</a></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="http://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>, China</td>
-                                </tr>
-                                
-                                <tr>
-                                    <td><b>E-mail: </b>tsu@sei.ecnu.edu.cn (work) / tsuletgo@gmail.com (permanent)</td>
-                                </tr>	
-                                
-				<tr>
-                                    <td>Address: Room B1103, Science Building</td>
-                                </tr>
-                            </table>
-                        </td>
-                    </tr>
-                </table>
 He is a Research Assistant (Mentor: [Ting Su](https://tingsu.github.io/)) of East China Normal University (2022-). He is also a Visiting Scholar of Ant Group, Hanzhou, China (2022-). He got his M.S. in software engineering from East China Normal University ([ECNU](https://english.ecnu.edu.cn/)), Shanghai, China (2018-2021).
 
 His research interests are in: 
