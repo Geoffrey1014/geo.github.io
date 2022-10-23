@@ -6,6 +6,7 @@ permalink: /profile/
 
 ## Weigang He 
 He is a Research Assistant (Mentor: [Ting Su](https://tingsu.github.io/)) of East China Normal University (2022-). He is also a Visiting Scholar of Ant Group, Hanzhou, China (2022-). He got his M.S. in software engineering from East China Normal University ([ECNU](https://english.ecnu.edu.cn/)), Shanghai, China (2018-2021).
+
 His research interests are in: 
 - Mobile App Analysis and Testing (GUI Fuzzing) 
 - Fuzzing Compilers/Program Analyzers
