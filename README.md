@@ -28,8 +28,8 @@ Implementation of a tool to automatically translate airborne Simulink models to 
 Utilizing the Air Data Computer software as the research object and applying different formal methods to verify software life-cycle artifacts to illustrate the formal methods and tools available in the verification process of airborne software.
 
 ### Languages
-- Chinese **Native**
-- English **Proficient IELTS (Academic) Score: 7.0, Certificate Number: 0033022506**
+- Chinese <strong>Native</strong>
+- English <strong>Proficient IELTS (Academic) Score: 7.0, Certificate Number: 0033022506</strong>
 
 ### Publications
 1. [Data flow testing for PLC programs via dynamic symbolic execution.](https://ieeexplore.ieee.org/document/9712019)  <br>
