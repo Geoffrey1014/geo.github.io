@@ -32,7 +32,7 @@ Utilizing the Air Data Computer software as the research object and applying dif
 - English <strong>Proficient IELTS (Academic) Score: 7.0</strong>
 
 ### Publications
-1. [Automata-based Trace Analysis for Aiding Diagnosing GUI Testing Tools for Android.] 
+1. [Automata-based Trace Analysis for Aiding Diagnosing GUI Testing Tools for Android.](https://tingsu.github.io/files/fse23-DDroid.pdf) 
 Enze Ma, Shan Huang, **Weigang He**, Ting Su*, Jue Wang, Huiyu Liu, Geguang Pu, Zhendong Su
 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 
@@ -40,10 +40,10 @@ ACM Joint European Software Engineering Conference and Symposium on the Foundati
 **Weigang He**, Xia Mao, Ting Su, Yanhong Huang, and Jianqi Shi. <br>
 In 28th Asia-Pacific Software Engin eering Conference, APSEC 2021, Taipei, Taiwan, December 6-9, 2021, pages 152–160. IEEE, 2021.
 
-1. [Automated test generation for iec 61131-3 st programs via dynamic symbolic execution.](https://www.sciencedirect.com/science/article/pii/S0167642321000010)<br>
+3. [Automated test generation for iec 61131-3 st programs via dynamic symbolic execution.](https://www.sciencedirect.com/science/article/pii/S0167642321000010)<br>
    **Weigang He**, Jianqi Shi, Ting Su, Zeyu Lu, Li Hao, and Yanhong Huang. <br>
    In Science of Computer Programming, 206:102608, 2021.
 
-2. [Safety verification of iec 61131-3 structured text programs.](https://ieeexplore.ieee.org/document/9107345) <br>
+4. [Safety verification of iec 61131-3 structured text programs.](https://ieeexplore.ieee.org/document/9107345) <br>
    Jiawen Xiong, Xiangxing Bu, Yanhong Huang, Jianqi Shi, and **Weigang He**. <br>
    In IEEE Transactions on Industrial Informatics, 17(4):2632–2640, 2020.
